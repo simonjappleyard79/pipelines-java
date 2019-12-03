@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SimonAppleyard/First%20Pipeline/_apis/build/status/simonjappleyard79.pipelines-java?branchName=master)](https://dev.azure.com/SimonAppleyard/First%20Pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
